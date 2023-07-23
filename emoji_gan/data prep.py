@@ -5,6 +5,8 @@ from time import sleep
 
 fold_path = "C:\\Users\\USER\\Documents\\datasets\\emoji dataset"
 
+
+
 files = os.listdir(fold_path)
 
 for file in files:
